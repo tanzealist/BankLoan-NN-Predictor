@@ -15,14 +15,30 @@ The challenge was to apply neural network models to accurately predict outcomes 
 Data analysis was conducted to understand feature correlations and distribution within the Loan dataset, influencing the neural network's decision-making process.
 
 <p align="center">
-  ![Screenshot 2024-01-28 at 10 35 13 AM](https://github.com/tanzealist/NEURAL-NETWORKS---PREDICTING-OUTCOMES-WITH-EASE/assets/114698958/a7babd12-0465-429b-8646-2cedf3517c72)
+  <img src="https://github.com/tanzealist/NEURAL-NETWORKS---PREDICTING-OUTCOMES-WITH-EASE/assets/114698958/dfd6bb30-c122-437b-b77e-e9de9da71498" alt="image" width="600">
+</p>
+
+<p align="center">
+  <img src="https://github.com/tanzealist/NEURAL-NETWORKS---PREDICTING-OUTCOMES-WITH-EASE/assets/114698958/461989ea-6fcc-4bb4-843d-b34ecc052c5d" alt="Screenshot 2024-01-28 at 10:35:13 AM" width="600">
+</p>
+
+
 
 
 ## Performance Evaluation
 Performance was assessed through various metrics, with models trained on the Loan dataset achieving accuracies of 79.06% and 80.23%. Visualizations provided insights into model behavior and performance.
 
+<p align="center">
+  <img src="https://github.com/tanzealist/NEURAL-NETWORKS---PREDICTING-OUTCOMES-WITH-EASE/assets/114698958/37747462-7790-4f7a-853e-363298f834a4" alt="image">
+</p>
+
+
+
+
 ## Conclusion
-The project demonstrates the neural network's capability in classifying data with reasonable accuracy. The insights from ROC curve, confusion matrix, and decision boundary plots were invaluable for understanding model performance.
+- **Loan Dataset:** Models achieved 79.06% and 80.23% accuracies, showcasing effective data classification.
+Visualizations provided insights into model behavior.
+While Loan dataset accuracy was lower, our project highlights neural network potential and the importance of architecture and optimization.
 
 ## Dependencies
 
