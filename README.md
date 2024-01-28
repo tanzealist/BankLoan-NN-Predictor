@@ -27,6 +27,8 @@ Data analysis was conducted to understand feature correlations and distribution 
 
 ## Performance Evaluation
 Performance was assessed through various metrics, with models trained on the Loan dataset achieving accuracies of 79.06% and 80.23%. Visualizations provided insights into model behavior and performance.
+Our visualizations, such as the ROC curve, confusion matrix, and decision boundary plots, provided valuable insights into the models' behavior and performance
+
 
 <p align="center">
   <img src="https://github.com/tanzealist/NEURAL-NETWORKS---PREDICTING-OUTCOMES-WITH-EASE/assets/114698958/37747462-7790-4f7a-853e-363298f834a4" alt="image">
