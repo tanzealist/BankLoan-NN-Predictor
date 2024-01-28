@@ -14,6 +14,10 @@ The challenge was to apply neural network models to accurately predict outcomes 
 ## Data Analysis
 Data analysis was conducted to understand feature correlations and distribution within the Loan dataset, influencing the neural network's decision-making process.
 
+<p align="center">
+  ![Screenshot 2024-01-28 at 10 35 13 AM](https://github.com/tanzealist/NEURAL-NETWORKS---PREDICTING-OUTCOMES-WITH-EASE/assets/114698958/a7babd12-0465-429b-8646-2cedf3517c72)
+
+
 ## Performance Evaluation
 Performance was assessed through various metrics, with models trained on the Loan dataset achieving accuracies of 79.06% and 80.23%. Visualizations provided insights into model behavior and performance.
 
